@@ -1,0 +1,1 @@
+{"uuid":"691afde2-8b9d-4f21-bcd0-6c9a34c93fd0","historyId":"c8b7bb4695db3beb68bfb5545f3ae3d9","labels":[{"name":"suite","value":"Dummy Test Suite"},{"name":"package","value":"tests.DummyTest"}],"name":"Dummy Test Example","status":"passed","stage":"finished","description":"La descripcion de un caso de prueba automatizado","start":1659709707695,"stop":1659709708582}
